@@ -1,0 +1,16 @@
+C:\Users\Computer\Documents\GitHub\game\Game\bin\Debug\Game.exe.config
+C:\Users\Computer\Documents\GitHub\game\Game\bin\Debug\Game.exe
+C:\Users\Computer\Documents\GitHub\game\Game\bin\Debug\Game.pdb
+C:\Users\Computer\Documents\GitHub\game\Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.AboutTheGame.resources
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.Rating.resources
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.GameCar.resources
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.Start.resources
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.exe
+C:\Users\Computer\Documents\GitHub\game\Game\obj\Debug\Game.pdb
